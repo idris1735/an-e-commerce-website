@@ -1,0 +1,16 @@
+
+[
+    
+    {
+        "name" : "Iphone Z",
+        "category" : "Tech",
+        "price" : "1120",
+        "imgSrc" : "images/products/iphonez.jpg"
+    },
+    {
+        "name" : "PS 5",
+        "category" : "Electronics",
+        "price" : "3052.00",
+        "imgSrc" : "images/products/ps5.jpg"
+    }
+]

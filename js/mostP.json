@@ -1,0 +1,26 @@
+[
+  {
+      "name" : "NBA 2k21",
+      "category" : "Videogames",
+      "price" : "40",
+      "imgSrc" : "images/products/71dMcqvTh8L._AC_UY218_.jpg"
+  },
+  {
+      "name" : "Spider Man miles morales",
+      "category" : "Videogames",
+      "price" : "47",
+      "imgSrc" : "images/products/71dtn2ZMs7L._AC_UY218_.jpg"
+  },
+  {
+      "name" : "Call of Duty Blackops",
+      "category" : "Videogames",
+      "price" : "40",
+      "imgSrc" : "images/products/71LFJ-TmhrL._AC_UY218_.jpg"
+  },
+  {
+      "name" : "Mass Effect",
+      "category" : "Videogames",
+      "price" : "40",
+      "imgSrc" : "images/products/71n9wAxG9AL._AC_UY218_.jpg"
+  }
+]

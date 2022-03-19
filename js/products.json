@@ -1,0 +1,106 @@
+
+[
+    
+   
+    {
+        "name" : "Ghost of Tsushima",
+        "category" : "Videogames",
+        "price" : "46",
+        "imgSrc" : "images/products/81Bzm37TIaL._AC_UY218_.jpg"
+    },
+    {
+        "name" : "The Legend of Zelda",
+        "category" : "Videogames",
+        "price" : "40",
+        "imgSrc" : "images/products/81KGsbq8ekL._AC_UY218_.jpg"
+    },
+    {
+        "name" : "BatMan Origins",
+        "category" : "Videogames",
+        "price" : "40",
+        "imgSrc" : "images/products/91ButQgoxmL._AC_UY218_.jpg"
+    },
+    {
+        "name" : "Monster Hunter",
+        "category" : "Videogames",
+        "price" : "49",
+        "imgSrc" : "images/products/91dPb584D2S._AC_UY218_.jpg"
+    },
+    {
+        "name" : "Ace Attony",
+        "category" : "Videogames",
+        "price" : "30",
+        "imgSrc" : "images/products/7161Lj9FRXS._AC_UY218_.jpg"
+    },
+    {
+        "name" : "Red Dead Redemption",
+        "category" : "Videogames",
+        "price" : "45",
+        "imgSrc" : "images/products/81k9pGfWGPL._AC_UY218_.jpg"
+    },{
+        "name" : "4kmovies",
+        "category" : "Tech",
+        "price" : "120",
+        "imgSrc" : "images/products/81pSGPm3qjL._AC_UY218_.jpg"
+    },
+    {
+        "name" : "Electricbulbs",
+        "category" : "Tech",
+        "price" : "30.32",
+        "imgSrc" : "images/products/51vNtGDUquL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Electricgadgets",
+        "category" : "Tech",
+        "price" : "500",
+        "imgSrc" : "images/products/DURM-24480C97FFA81710._V533746472_.jpg"
+    },
+    {
+        "name" : "Fingerprintscanner",
+        "category" : "Tech",
+        "price" : "400",
+        "imgSrc" : "images/products/61E2ZRuP26L._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Laptopaccessories",
+        "category" : "Tech",
+        "price" : "50",
+        "imgSrc" : "images/products/71glxGyL2hL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Mobilephones",
+        "category" : "Tech",
+        "price" : "1120",
+        "imgSrc" : "images/products/61gVPTl5N3L._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Movies",
+        "category" : "Tech",
+        "price" : "60",
+        "imgSrc" : "images/products/41FFnKEbL6L._AC_SX184_.jpg"
+    },
+    {
+        "name" : "Portable Storage Device",
+        "category" : "Tech",
+        "price" : "450.32",
+        "imgSrc" : "images/products/41+taRnMWIL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Securitycameras",
+        "category" : "Tech",
+        "price" : "1500",
+        "imgSrc" : "images/products/51eejJiZEzL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Soundequipment",
+        "category" : "Tech",
+        "price" : "1800",
+        "imgSrc" : "images/products/41WzHq0SkRL._AC_UL320_.jpg"
+    },
+    { 
+        "name" : "PS 5",
+        "category" : "Chair",
+        "price" : "50.25",
+        "imgSrc" : "images/products/ps5.jpg"
+    }
+]

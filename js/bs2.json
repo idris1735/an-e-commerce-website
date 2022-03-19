@@ -1,0 +1,28 @@
+
+[
+    
+    {
+        "name" : "PS 4",
+        "category" : "Electornics",
+        "price" : "600",
+        "imgSrc" : "images/products/ps4.jpg"
+    },
+    {
+        "name" : "Facemask",
+        "category" : "Health",
+        "price" : "1.1",
+        "imgSrc" : "images/products/71KiYGK61TL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Sewing tool",
+        "category" : "Female",
+        "price" : "44.1",
+        "imgSrc" :"images/products/61eT3wcT+KL._AC_UL320_.jpg"
+    },
+    {
+        "name" :"slippers",
+        "category":"Female",
+        "price":"15",
+        "imgSrc":"images/products/71qVjleYKdL._AC_UL320_.jpg"
+    }
+]

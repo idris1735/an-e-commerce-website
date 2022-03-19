@@ -1,0 +1,28 @@
+
+[
+    
+    {
+        "name" : "PS 5",
+        "category" : "Chair",
+        "price" : "50.25",
+        "imgSrc" : "images/products/img01.jpg"
+    },
+    {
+        "name" : "Bed",
+        "category" : "Bed",
+        "price" : "102.00",
+        "imgSrc" : "images/products/img02.jpg"
+    },
+    {
+        "name" : "Bench",
+        "category" : "Bench",
+        "price" : "15.00",
+        "imgSrc" : "images/products/img03.jpg"
+    },
+    {
+        "name" : "Bench",
+        "category" : "Bench",
+        "price" : "15.00",
+        "imgSrc" : "images/products/img04.jpg"
+    }
+]
