@@ -1,0 +1,63 @@
+[
+    {
+        "name" : "PowerDrill",
+        "category" : "Tool&Equipment",
+        "price" : "232.3",
+        "imgSrc" : "images/products/61IlzctRq0L._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Electricscale",
+        "category" : "Tool&Equipment",
+        "price" : "400",
+        "imgSrc" : "images/products/51efmHUyH0L._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Metaltwister",
+        "category" : "Tool&Equipment",
+        "price" : "324.23",
+        "imgSrc" : "images/products/51M4F+g9dgL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Telescope",
+        "category" : "Tool&Equipment",
+        "price" : "855'23",
+        "imgSrc" : "images/products/51vfoiVL2LL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Powerfullscrewdriver",
+        "category" : "Tool&Equipment",
+        "price" : "200.00",
+        "imgSrc" : "images/products/51xlk4+8bcL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Microscope",
+        "category" : "Tool&Equipment",
+        "price" : "2300.00",
+        "imgSrc" : "images/products/71Fw5D7+lYL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "MeasuringTape",
+        "category" : "Tool&Equipment",
+        "price" : "120",
+        "imgSrc" : "images/products/51zDAqrFwJL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Drillattachment",
+        "category" : "Tool&Equipment",
+        "price" : "400",
+        "imgSrc" : "images/products/71Wwvsrh3iL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Equipmentajusters",
+        "category" : "Tool&Equipment",
+        "price" : "500.00",
+        "imgSrc" : "images/products/71YIUeZsdjL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Circularsawblade",
+        "category" : "Tool&Equipment",
+        "price" : "550.00",
+        "imgSrc" : "images/products/6141fjEazzL._AC_UL320_.jpg"
+    }
+    
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "name" : "Bathroom",
+        "category" : "Homethings",
+        "price" : "45.5",
+        "imgSrc" : "images/products/81QNPjNzbAL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Cleaningtools",
+        "category" : "Homethings",
+        "price" : "56.4",
+        "imgSrc" : "images/products/71e4FX1KzIL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Decorations",
+        "category" : "Homethings",
+        "price" : "4.32",
+        "imgSrc" : "images/products/71NJSBty-NL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Furniture",
+        "category" : "Homethings",
+        "price" : "65.3",
+        "imgSrc" : "images/products/71znKFWlHlL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Kitchenservingtools",
+        "category" : "Homethings",
+        "price" : "12.23",
+        "imgSrc" : "images/products/61mDxai4EQL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Kitchensinkprotector",
+        "category" : "Homethings",
+        "price" : "23.3",
+        "imgSrc" : "images/products/71gGk3he6xL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Luggage",
+        "category" : "Homethings",
+        "price" : "11",
+        "imgSrc" : "images/products/DURM-213F370665902D13.jpeg"
+    },
+    {
+        "name" : "Microheater",
+        "category" : "Homethings",
+        "price" : "54",
+        "imgSrc" : "images/products/411KxOpKQ+L.jpgr"
+    },
+    {
+        "name" : "Pettolls",
+        "category" : "Homethings",
+        "price" : "13",
+        "imgSrc" : "images/products/71f7PAtailL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Waterpurifiers",
+        "category" : "Homethings",
+        "price" : "34",
+        "imgSrc" : "images/products/613BDZQhPPL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Wine and Drink tools",
+        "category" : "Homethings",
+        "price" : "132",
+        "imgSrc" : "images/products/61anxDu-i5L._AC_UL320_.jpg"
+    }
+]

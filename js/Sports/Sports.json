@@ -1,0 +1,68 @@
+[
+    {
+        "name" : "Goalkeepergloves",
+        "category" : "Sports",
+        "price" : "130",
+        "imgSrc" : "images/products/31Lt4RN7wML._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Grapplinghook",
+        "category" : "Sports",
+        "price" : "123.23",
+        "imgSrc" : "images/products/41Py-Xuq4yL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "SwimmingShorts",
+        "category" : "Sports",
+        "price" : "30",
+        "imgSrc" : "images/products/61-dYhXTwDL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Sportboat",
+        "category" : "Sports",
+        "price" : "600",
+        "imgSrc" : "images/products/61k9W9EdnLL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Snowgoggles",
+        "category" : "Sports",
+        "price" : "40",
+        "imgSrc" : "images/products/61RjgpL0alL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "LifeJacket",
+        "category" : "Sports",
+        "price" : "70",
+        "imgSrc" : "images/products/71i5FDJtxNL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "SkiingKit",
+        "category" : "Sports",
+        "price" : "400",
+        "imgSrc" : "images/products/71uh3U-avRL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Waterbottle",
+        "category" : "Sports",
+        "price" : "4.0",
+        "imgSrc" : "images/products/71XRC23uTJL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Boatpaddle",
+        "category" : "Sports",
+        "price" : "60",
+        "imgSrc" : "images/products/71zGt3xGf9L._AC_UL320_.jpg"
+    },
+    {
+        "name" : "WallBricksholders",
+        "category" : "Sports",
+        "price" : "900",
+        "imgSrc" : "images/products/81CqhDhEu4L._AC_UL320_.jpg"
+    },
+    {
+        "name" : "FullBodyDivingSuit",
+        "category" : "Sports",
+        "price" : "89.0",
+        "imgSrc" : "images/products/616HMkgqeAL._AC_UL320_.jpg"
+    }
+]

@@ -1,0 +1,38 @@
+[
+{
+    "name" : "Makeup",
+    "category" : "Female",
+    "price" : "1.1",
+    "imgSrc" :"images/products/41yU40IJecL._AC_UL320_.jpg"
+},
+{
+    "name" : "Earring",
+    "category" : "Female",
+    "price" : "13.4",
+    "imgSrc" :"images/products/51kL9JyNtNL._AC_UL320_.jpg"
+},
+{
+    "name" : "Handbag",
+    "category" : "Female",
+    "price" : "23.5",
+    "imgSrs" : "images/products/81g5UqUfzrL._AC_UL320_.jpg"
+},
+{
+    "name" : "Footware",
+    "category" : "Female",
+    "price" : "23.4",
+    "imgSrc" :"images/products/61CD5CinWOL._AC_UL320_.jpg"
+},
+{
+    "name" : "Sewing tool",
+    "category" : "Female",
+    "price" : "44.1",
+    "imgSrc" :"images/products/61eT3wcT+KL._AC_UL320_.jpg"
+},
+{
+    "name" :"slippers",
+    "category":"Female",
+    "price":"15",
+    "imgSrc":"images/products/71qVjleYKdL._AC_UL320_.jpg"
+}
+]

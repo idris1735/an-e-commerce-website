@@ -1,0 +1,68 @@
+[
+    {
+        "name" : "Babychair",
+        "category" : "Kids",
+        "price" : "40",
+        "imgSrc" : "images/products/71gBaaxaOyL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Babyclothes",
+        "category" : "Kids",
+        "price" : "21",
+        "imgSrc" : "images/products/91Hpid6QDwL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "bicycle",
+        "category" : "kids",
+        "price" : "70",
+        "imgSrc" : "images/products/61GCYqF45dL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Coloringpen",
+        "category" : "kids",
+        "price" : "31",
+        "imgSrc" : "images/products/91D49w-UGLL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Gameconsole",
+        "category" : "kids",
+        "price" : "500",
+        "imgSrc" : "images/products/41wNqTxUoGL.jpg"
+    },
+    {
+        "name" : "Kidsactionfigures",
+        "category" : "kids",
+        "price" : "60",
+        "imgSrc" : "images/products/71Vut8HAcdL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Kidseducativetoys",
+        "category" : "kids",
+        "price" : "120",
+        "imgSrc" : "images/products/71lTev17QqL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Kidsscooters",
+        "category" : "kids",
+        "price" : "90.22",
+        "imgSrc" : "images/products/71lu4KNN9WL._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Kidstoys&vehicles",
+        "category" : "kids",
+        "price" : "23.32",
+        "imgSrc" : "images/products/71JC5YbRb8L._AC_UL320_.jpg"
+    },
+    {
+        "name" : "Stickers",
+        "category" : "kids",
+        "price" : "5.3",
+        "imgSrc" : "images/products/91irmPmkE-L._AC_UL320_.jpg"
+    },
+    {
+        "name" : "BabyEntertainment",
+        "category" : "kids",
+        "price" : "53.3",
+        "imgSrc" : "images/products/71Hm93V3TOL._AC_UL320_.jpg"
+    }
+]
